@@ -1,7 +1,3 @@
 export default function Square() {
-  return (
-    <div>
-      <p>test</p>
-    </div>
-  );
+  return <div className="size-12 bg-white border-4 border-red-900"></div>;
 }
